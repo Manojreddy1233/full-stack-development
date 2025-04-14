@@ -1,0 +1,24 @@
+.shivaji{
+    font-size: 2.2rem; 
+    color: rgb(104, 190, 161);
+}
+
+#aa{
+    background-position: left;
+    color: rgb(232, 37, 183); 
+    font-size: 35px; 
+}
+
+#bb{
+    color: rgb(26, 37, 188);
+    line-height: 1.5; 
+}
+
+#cc{
+    color: rgb(8, 203, 44); 
+    font-size: 24px;
+}
+.dd{
+    color: rgb(11, 11, 11);
+    font-size: 30px;
+}
